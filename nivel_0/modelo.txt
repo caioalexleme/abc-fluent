@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nível </title>
+    <link rel="shortcut icon" href="../estilo/icons8-en-16.favicon" type="image/x-icon">
+    <link rel="stylesheet" href="../estilo/style.css">
+</head>
+
+<body>
+
+    <section class="formu">
+
+        <h1>Aula , Nível </h1>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Português</th>
+                    <th>Inglês</th>
+                    <th>Pronúncia</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>                
+            </tbody>
+
+            <tfoot>
+                <tr>    
+                    <th>Prof. Sandy</th> 
+                    <th>ABC Fluent</th>
+                    <th><a href="" target="_blank">Acessar aula</a></th>
+                </tr>    
+            </tfoot>    
+
+        </table>
+        
+    </section>
+
+</body>
+
+</html>
