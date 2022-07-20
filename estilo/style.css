@@ -36,6 +36,14 @@ table{
     box-shadow: 3px -3px 3px 0px rgba(0, 0, 0, 0.199);
     margin: auto;
     border-collapse: collapse;
+    position: relative;
+}
+
+thead > tr > th{
+    position: sticky;
+    top: -1px;
+    background-color: rgb(175, 174, 174);
+    font-weight: 900;
 }
 
 td, th{
@@ -63,4 +71,8 @@ a{
 
 .s{
     text-decoration: underline;
+}
+
+.v{
+    color: red;
 }
