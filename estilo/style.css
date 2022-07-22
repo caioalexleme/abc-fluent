@@ -76,3 +76,14 @@ a{
 .v{
     color: red;
 }
+
+td{
+    max-width: 230px;
+}
+
+@media (max-width: 450px)
+{
+    body{
+        font-size: 12.5px;
+    }
+}
